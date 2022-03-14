@@ -9,7 +9,7 @@ function HomePage() {
         alignItems: 'center'
       }}
     >
-      <h1 style={{ fontFamily: 'fantasy', color: '#4b9be1' }}>
+      <h1 style={{ fontFamily: 'fantasy', color: '#98d4d3' }}>
         {"seangu's website"}
       </h1>
       <h2
